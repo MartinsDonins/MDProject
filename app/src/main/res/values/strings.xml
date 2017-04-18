@@ -1,8 +1,59 @@
 <resources>
-    <string name="app_name">Socionics calculator</string>
+    <string name="app_name">Socionikas kalkulators</string>
 
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="gaidam_rezultatu">Gaidam rezultātu</string>
+    <string name="vienkars_apraksts">Vienkāršs socionikas tipu noteikšanas kalkulators.</string>
+    <string name="detalizets_apraksts">Socionikas aplikācija, kas ļauj Jums atklāt sevi, kā arī izrpast apkārtējo pasauli vēl labāk.</string>
+    <string name="detalizets_apraksts2"><b>Aplikācijas izstrādātājs</b>: Digital Team</string>
+    <string name="detalizets_apraksts3"><b>Aplikācijas saturs</b> PeRtipo</string>
+    <string name="detalizets_apraksts4">Aplikācija šobrīd tiek aktīvi izstrādāta un uzlabota</string>
+    <string name="detalizets_apraksts5">Foto no: Pixabay.com</string>
+    <string name="Advance_calc_button">Pāriet uz advanceto kalkulatoru</string>
+    <string name="reset">Notīrīt</string>
+
+    <string name="tipi_jesenins">"Jesēņins 2"</string>
+    <string name="tipi_dima">Dimā</string>
+    <string name="tipi_balzaks">Balzaks</string>
+    <string name="tipi_gabens">Gabēns</string>
+    <string name="tipi_dostajevskis">Dostajevskis</string>
+    <string name="tipi_draizers">"Draizers</string>
+    <string name="tipi_robespjers">Robespjērs</string>
+    <string name="tipi_maksims">Maksims</string>
+    <string name="tipi_hakslijs">Hakslijs</string>
+    <string name="tipi_napoleons">Napoleons</string>
+    <string name="tipi_dons_kihots">Dons Kihots</string>
+    <string name="tipi_zukovs">Žukovs</string>
+    <string name="tipi_hamlets">Hamlets</string>
+    <string name="tipi_igo">Igo</string>
+    <string name="tipi_dzeks_londons">Džeks Londons</string>
+    <string name="tipi_stirlics">Štirlics</string>
+
+    <string name="dihotomas_intraverts">Intraverts</string>
+    <string name="dihotomas_ekstraverts">Ektraverts</string>
+    <string name="dihotomas_iracionals">Iracionāls</string>
+    <string name="dihotomas_racionals">Racionāls</string>
+    <string name="dihotomas_etisks">Ētisks</string>
+    <string name="dihotomas_logisks">Loģisks</string>
+    <string name="dihotomas_intuits">Intuīts</string>
+    <string name="dihotomas_sensors">Sensors</string>
+
+
+    //augsas menu
+    <string name="action_settings">Uzstādījumi (drīzumā)</string>
+    //sānu menu
+
+    <string name="nav_name">vārds</string>
+    <string name="nav_email"> e-pasts</string>
+
+    <string name="nav_camera">kaut kas(drīzumā)</string>
+    <string name="nav_gallery">Tipu bildes (drīzumā)</string>
+    <string name="nav_slideshow">Katalogs (drīzumā)</string>
+    <string name="nav_manage">Rīki (drīzumā)</string>
+    <string name="nav_communicate">Communicate</string>
+    <string name="nav_share">Dalies</string>
+    <string name="nav_send">Nosūti draugam</string>
+
 </resources>
